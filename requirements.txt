@@ -33,7 +33,6 @@ assemblyai==0.22.0
 # HuggingFace + LLMs
 transformers==4.45.2
 huggingface-hub==0.25.2
-torch==2.2.2
 
 # Image libs (Django sometimes wants them)
 Pillow==10.3.0

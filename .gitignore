@@ -1,2 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+
+# Django stuff
+/media/
+staticfiles/
+*.sqlite3
+
+# Env
+.env
+*.env
+*.env.*
+
+# Keys and secrets
+smart_meeting_automator/keys/
+*.json
+*.pem
+
+# VSCode
+.vscode/
+
+# History folder created by your editor (where all your secrets leaked… lovely)
+.history/
+.history/**
+
+# Virtualenv
+venv/
 environ/
-.environ/
+
+# HuggingFace / Torch caches
+D:/my_huggingface_cache/
+.huggingface/
+.cache/
